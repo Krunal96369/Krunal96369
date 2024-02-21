@@ -3,19 +3,20 @@
 Embark on an interstellar voyage with me, Krunal Chauhan, as your guide, piloting the SS CodeCraft through the vast coding universe!
 
 ## 📡 Mission Brief
-👨‍🚀 **Commander**: Krunal Chauhan  
-🌟 **Specialization**: Dart (Flutter) & React Native Interstellar Mobile Development  
-📚 **Academy**: University of Houston–Clear Lake, Starfleet Academy of Coding  
-🔭 **Current Exploration**: Advancing through the nebula of React, diving into Python black holes, and deciphering ancient C++ runes.  
+👨‍🚀 **Commander**: Krunal Chauhan
+🌟 **Specialization**: Dart (Flutter) & React Native Interstellar Mobile Development
+📚 **Academy**: University of Houston–Clear Lake, Starfleet Academy of Coding
+🔭 **Current Exploration**: Advancing through the nebula of React, diving into Python black holes, and deciphering ancient C++ runes.
 💬 **Comms**: `Krunal96369@gmail.com` | [LinkedIn](https://www.linkedin.com/in/krunalchauhan/) | [GitHub](https://github.com/YourGitHubUsername)
 
 ## 🚀 Launchpad
 
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) Piloting Flutter crafts through the app-verse
-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) Constructing cross-galaxy user interfaces
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Scripting the ship's AI for smarter navigation
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Plotting courses with dynamic scripting
-
+| Constellation | Cosmic Description |
+|------|-------------|
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | Piloting Flutter crafts through the app-verse |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Constructing cross-galaxy user interfaces |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Scripting the ship's AI for smarter navigation |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Plotting courses with dynamic scripting |
 
 
 ## 🌌 Galactic Expeditions
