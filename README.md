@@ -3,11 +3,16 @@
 Embark on an interstellar voyage with me, Krunal Chauhan, as your guide, piloting the SS CodeCraft through the vast coding universe!
 
 ## 📡 Mission Brief
+
 👨‍🚀 **Commander**: Krunal Chauhan
+
 🌟 **Specialization**: Dart (Flutter) & React Native Interstellar Mobile Development
+
 📚 **Academy**: University of Houston–Clear Lake
+
 🔭 **Current Exploration**: Advancing through the nebula of React, diving into Python black holes, and deciphering ancient dart runes.
-💬 **Comms**: [LinkedIn](https://www.linkedin.com/in/krunalchauhan/) | [GitHub](https://github.com/YourGitHubUsername)
+
+
 
 ## 🚀 Launchpad
 
