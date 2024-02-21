@@ -5,9 +5,9 @@ Embark on an interstellar voyage with me, Krunal Chauhan, as your guide, pilotin
 ## 📡 Mission Brief
 👨‍🚀 **Commander**: Krunal Chauhan
 🌟 **Specialization**: Dart (Flutter) & React Native Interstellar Mobile Development
-📚 **Academy**: University of Houston–Clear Lake, Starfleet Academy of Coding
-🔭 **Current Exploration**: Advancing through the nebula of React, diving into Python black holes, and deciphering ancient C++ runes.
-💬 **Comms**: `Krunal96369@gmail.com` | [LinkedIn](https://www.linkedin.com/in/krunalchauhan/) | [GitHub](https://github.com/YourGitHubUsername)
+📚 **Academy**: University of Houston–Clear Lake
+🔭 **Current Exploration**: Advancing through the nebula of React, diving into Python black holes, and deciphering ancient dart runes.
+💬 **Comms**: [LinkedIn](https://www.linkedin.com/in/krunalchauhan/) | [GitHub](https://github.com/YourGitHubUsername)
 
 ## 🚀 Launchpad
 
