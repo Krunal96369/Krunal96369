@@ -32,7 +32,7 @@ Embark on an interstellar voyage with me, Krunal Chauhan, as your guide, pilotin
 - **Pursuing Degree**: Master of Science in Software Engineering
 
 ## 📬 Contact Coordinates
-- **Subspace Email**: `Krunal96369@gmail.com`
+- **Subspace Email**: [Captain's mail](mailto:Krunal96369@gmail.com)
 - **LinkedIn Beacon**: [KrunalChauhan](https://www.linkedin.com/in/krunalchauhan/)
 - **GitHub Docking Station**: [Krunal96369](https://github.com/Krunal96369)
 - **Medium Logbook**: [Follow my adventures](https://medium.com/@krunal96369)
