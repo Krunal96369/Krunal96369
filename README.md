@@ -35,5 +35,6 @@ Embark on an interstellar voyage with me, Krunal Chauhan, as your guide, pilotin
 - **Subspace Email**: `Krunal96369@gmail.com`
 - **LinkedIn Beacon**: [KrunalChauhan](https://www.linkedin.com/in/krunalchauhan/)
 - **GitHub Docking Station**: [Krunal96369](https://github.com/Krunal96369)
+- **Medium Logbook**: [Follow my adventures](https://medium.com/@krunal96369)
 
 "Exploring new technologies, discovering unknown bugs, and pushing the boundaries of code to boldly go where no developer has gone before!"
