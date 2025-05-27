@@ -36,23 +36,6 @@ Developed an automated fraud detection system using the Isolation Forest algorit
 
 ---
 
-### 💼 Experience Snapshot
-
-**Graduate Assistant – Data Ops**  
-*University of Houston-Clear Lake*  
-- Built data workflows using Google APIs and Python for 300+ students  
-- Automated scheduling and improved data quality by 40%
-
-**Associate Software Engineer**    
-- Delivered real-time healthcare data sync for 15K+ users  
-- Built ETL pipelines for structured property data using Supabase
-
-**Software Engineer Intern**  
-- Designed live sports analytics system with Firebase  
-- Achieved 98% crash-free deployments and real-time stats delivery
-
----
-
 ### 🌐 Let’s Connect
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/krunalchauhan/)
