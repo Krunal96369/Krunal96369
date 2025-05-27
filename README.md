@@ -53,12 +53,6 @@ Developed an automated fraud detection system using the Isolation Forest algorit
 
 ---
 
-### 📊 GitHub Stats
-
-![Krunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunal96369&show_icons=true&theme=dracula)
-
----
-
 ### 🌐 Let’s Connect
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/krunalchauhan/)
