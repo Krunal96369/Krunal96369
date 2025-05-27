@@ -1,40 +1,70 @@
-# 🚀 Krunal's Galactic Code Odyssey 🚀
+# 👋 Hi, I'm Krunal Chauhan
 
-Embark on an interstellar voyage with me, Krunal Chauhan, as your guide, piloting the SS CodeCraft through the vast coding universe!
+### 🚀 Data Engineer | Real-time Systems Enthusiast | Cloud-native Builder
 
-## 📡 Mission Brief
+I'm a Data Engineer with 3+ years of experience designing and deploying scalable data pipelines and streaming architectures. I specialize in tools like Kafka, Spark, AWS, and dbt to turn raw, messy data into fast, reliable insights. Currently pursuing my Master’s in Software Engineering at the University of Houston-Clear Lake, I'm passionate about automation, data quality, and cloud-native solutions.
 
-👨‍🚀 **Commander**: Krunal Chauhan
+---
 
-🌟 **Specialization**: Dart (Flutter) & React Native Interstellar Mobile Development
+### 🧰 Tech Toolbox
 
-📚 **Academy**: University of Houston–Clear Lake
+**Languages:** Python, SQL, Java, JavaScript  
+**Streaming & Pipelines:** Kafka, Apache Spark, AWS Glue, EMR, Lambda  
+**Cloud Platforms:** AWS (S3, Redshift, EMR), GCP  
+**Databases:** PostgreSQL, Redshift, DynamoDB, MongoDB, Firebase  
+**Orchestration & Modeling:** Apache Airflow, dbt  
+**DevOps & Tools:** Docker, GitHub Actions, Postman, JIRA  
+**Frontend & APIs:** React.js, Spring Boot, Flutter, REST APIs
 
-🔭 **Current Exploration**: Advancing through the nebula of React, diving into Python black holes, and deciphering ancient dart runes.
+---
 
+### 📈 Featured Projects
 
+#### 🕵️‍♂️ Fraud Detection System Using Isolation Forest  
+**[🔗 View Project](https://github.com/Krunal96369/fraud_detection)** 
+🗓️ May 2025  
+Developed an automated fraud detection system using the Isolation Forest algorithm from the PyOD library to identify financial transaction anomalies **without labeled data**.
 
-## 🚀 Launchpad
+**Key Features:**
+- Real-time anomaly detection  
+- Fully unsupervised model with configurable contamination rate  
+- Visual analytics comparing normal vs. anomalous transactions  
+- Histogram-based insights into transaction behavior  
 
-| Constellation | Cosmic Description |
-|------|-------------|
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | Piloting Flutter crafts through the app-verse |
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Constructing cross-galaxy user interfaces |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Scripting the ship's AI for smarter navigation |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Plotting courses with dynamic scripting |
+**Tech Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, PyOD, Jupyter Notebook  
+**Impact:** Improved early fraud detection and reduced manual review workload.
 
+---
 
-## 🌌 Galactic Expeditions
-- **Star System Overhaul**: Enhanced the UI/UX of the Andromeda Rental Platform, increasing user engagement across the galaxy.
-- **Quantum Entanglement Messenger**: Spearheaded the development of a real-time communication app, breaking the light-speed barrier for instant messaging.
+### 💼 Experience Snapshot
 
-## 🛰️ Starfleet Academy
-- **Pursuing Degree**: Master of Science in Software Engineering
+**Graduate Assistant – Data Ops**  
+*University of Houston-Clear Lake*  
+- Built data workflows using Google APIs and Python for 300+ students  
+- Automated scheduling and improved data quality by 40%
 
-## 📬 Contact Coordinates
-- **Subspace Email**: [Captain's mail](mailto:Krunal96369@gmail.com)
-- **LinkedIn Beacon**: [KrunalChauhan](https://www.linkedin.com/in/krunalchauhan/)
-- **GitHub Docking Station**: [Krunal96369](https://github.com/Krunal96369)
-- **Medium Logbook**: [Follow my adventures](https://medium.com/@krunal96369)
+**Associate Software Engineer**    
+- Delivered real-time healthcare data sync for 15K+ users  
+- Built ETL pipelines for structured property data using Supabase
 
-"Exploring new technologies, discovering unknown bugs, and pushing the boundaries of code to boldly go where no developer has gone before!"
+**Software Engineer Intern**  
+- Designed live sports analytics system with Firebase  
+- Achieved 98% crash-free deployments and real-time stats delivery
+
+---
+
+### 📊 GitHub Stats
+
+![Krunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunal96369&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Let’s Connect
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/krunalchauhan/)
+- [💻 GitHub](https://github.com/krunal96369)
+
+---
+
+> _“Transforming data into decisions — one pipeline at a time.”_
+****
