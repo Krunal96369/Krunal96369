@@ -1,47 +1,108 @@
-# 👋 Hi, I'm Krunal Chauhan
+# 👋 Hey, I'm Krunal Chauhan
 
-### 🚀 Data Engineer | Real-time Systems Enthusiast | Cloud-native Builder
+### 🚀 Software Engineer (Data/Platform) • Real-time Systems • Cloud-Native
 
-I'm a Data Engineer with 3+ years of experience designing and deploying scalable data pipelines and streaming architectures. I specialize in tools like Kafka, Spark, AWS, and dbt to turn raw, messy data into fast, reliable insights. Currently pursuing my Master’s in Software Engineering at the University of Houston-Clear Lake, I'm passionate about automation, data quality, and cloud-native solutions.
+I design and ship reliable systems: data pipelines, streaming services,
+and APIs that turn messy inputs into clean, fast, observable products.
+3+ years in the trenches, currently finishing a Master’s in Software
+Engineering @ UHCL. I care about smart abstractions, tests that matter,
+and shipping code that’s easy to run at 3 a.m.
 
----
-
-### 🧰 Tech Toolbox
-
-**Languages:** Python, SQL, Java, JavaScript  
-**Streaming & Pipelines:** Kafka, Apache Spark, AWS Glue, EMR, Lambda  
-**Cloud Platforms:** AWS (S3, Redshift, EMR), GCP  
-**Databases:** PostgreSQL, Redshift, DynamoDB, MongoDB, Firebase  
-**Orchestration & Modeling:** Apache Airflow, dbt  
-**DevOps & Tools:** Docker, GitHub Actions, Postman, JIRA  
-**Frontend & APIs:** React.js, Spring Boot, Flutter, REST APIs
+- 🔭 Building: event-driven backends, real-time analytics, resilient pipelines  
+- 🧪 Loop: model → automate → deploy → measure  
+- ☁️ Clouds: **AWS** (S3, EMR, Glue, Lambda, Redshift), **GCP**  
+- 📍 Houston-ish • Remote-friendly
 
 ---
 
-### 📈 Featured Projects
+## 🧰 Tech Toolbox
 
-#### 🕵️‍♂️ Fraud Detection System Using Isolation Forest  
-**[🔗 View Project](https://github.com/Krunal96369/fraud_detection)** 
-🗓️ May 2025  
-Developed an automated fraud detection system using the Isolation Forest algorithm from the PyOD library to identify financial transaction anomalies **without labeled data**.
-
-**Key Features:**
-- Real-time anomaly detection  
-- Fully unsupervised model with configurable contamination rate  
-- Visual analytics comparing normal vs. anomalous transactions  
-- Histogram-based insights into transaction behavior  
-
-**Tech Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, PyOD, Jupyter Notebook  
-**Impact:** Improved early fraud detection and reduced manual review workload.
+**Languages:** Python, SQL, Java, JavaScript, Typescript  
+**Backend & APIs:** FastAPI, Node.js, REST  
+**Streaming & Compute:** Kafka, Apache Spark, AWS Glue/EMR/Lambda  
+**Data Stores:** PostgreSQL, Redshift, DynamoDB, MongoDB, Firebase  
+**Modeling & Orchestration:** dbt, Apache Airflow  
+**DevOps:** Docker, GitHub Actions, Prometheus, Grafana  
+**Frontend (enough to ship):** React.js  
+**Testing:** PyTest, Postman, smoke tests, contract tests
 
 ---
 
-### 🌐 Let’s Connect
+## 📈 Featured Projects
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/krunalchauhan/)
-- [💻 GitHub](https://github.com/krunal96369)
+### 🕵️‍♂️ Fraud Detection — Isolation Forest (Unsupervised)
+**Repo:** [`fraud_detection`](https://github.com/Krunal96369/fraud_detection)  
+**When:** May 2025
+
+Automated anomaly detection pipeline using Isolation Forest (PyOD) for
+financial transactions — no labels needed.
+
+- Real-time scoring with configurable contamination rate  
+- Visual analytics: normal vs. anomalous distributions  
+- Clean notebooks and reproducible environment
+
+**Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, PyOD, Jupyter
 
 ---
 
-> _“Transforming data into decisions — one pipeline at a time.”_
-****
+### 🧠 ThinkDocs.ai — AI Document Intelligence (RAG)
+Production Q&A over unstructured PDFs with low-latency retrieval,
+stable ingestion, and observability.
+
+- Sub-200ms answers, doc auto-ingest, dashboards and metrics  
+**Stack:** FastAPI, ChromaDB, Prometheus, Grafana
+
+---
+
+### 🏀 NBA Analytics Pipeline
+ETL → normalized DB → executive dashboards. Computes PER, TS%, and
+Four Factors with rate-limits and retries.
+
+**Stack:** Python, SQL, Power BI
+
+---
+
+### 🏥 Clinic Ops Platform
+Full-stack patient management with RBAC/JWT and real-time alerts.
+Reduced scheduling time by ~45%.
+
+**Stack:** React, Node, Postgres, Socket.io, AWS SNS
+
+---
+
+### 🎓 Advising Data Warehouse (UHCL)
+Automations across Google Sheets/CRM. Standardized inputs led to ~30%
+fewer errors and ~40% faster updates.
+
+---
+
+### 💳 Pay + Maps SDK
+React + MUI front ends integrating Stripe/Razorpay and Google Maps.
+Reporting scripts turned hours into minutes.
+
+---
+
+## 🧪 How I build
+
+- **Event-first modeling:** design streams and schemas before code  
+- **Contracts & tests:** JSON schema + smoke + contract tests  
+- **Guardrails:** idempotent jobs, checkpoints, safe backfills  
+- **Observability:** metrics over vibes; useful dashboards and alerts
+
+---
+
+## 📚 Currently learning
+
+- Event-driven system design (sagas, outbox, backpressure)  
+- Cost-aware modeling on Redshift / column stores  
+- Better DX for dbt + Airflow in mono-repos
+
+---
+
+## 🌐 Connect
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/krunalchauhan/  
+- 💻 **GitHub:** https://github.com/krunal96369  
+- ✉️ **Email:** krunal96369 (at) gmail (dot) com  
+
+
