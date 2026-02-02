@@ -1,108 +1,77 @@
 # 👋 Hey, I'm Krunal Chauhan
 
-### 🚀 Software Engineer (Data/Platform) • Real-time Systems • Cloud-Native
+### Backend Engineer • Real-time Infrastructure • Scalable Systems
 
-I design and ship reliable systems: data pipelines, streaming services,
-and APIs that turn messy inputs into clean, fast, observable products.
-3+ years in the trenches, currently finishing a Master’s in Software
-Engineering @ UHCL. I care about smart abstractions, tests that matter,
-and shipping code that’s easy to run at 3 a.m.
+I build backend systems that handle production load: real-time messaging
+infrastructure with 10K+ concurrent connections, APIs serving 500K+ daily
+requests, and async pipelines processing thousands of background jobs with
+99% uptime. 3+ years shipping code that scales.
 
-- 🔭 Building: event-driven backends, real-time analytics, resilient pipelines  
-- 🧪 Loop: model → automate → deploy → measure  
-- ☁️ Clouds: **AWS** (S3, EMR, Glue, Lambda, Redshift), **GCP**  
-- 📍 Houston-ish • Remote-friendly
+Currently finishing an MS in Software Engineering @ UHCL.
 
----
-
-## 🧰 Tech Toolbox
-
-**Languages:** Python, SQL, Java, JavaScript, Typescript  
-**Backend & APIs:** FastAPI, Node.js, REST  
-**Streaming & Compute:** Kafka, Apache Spark, AWS Glue/EMR/Lambda  
-**Data Stores:** PostgreSQL, Redshift, DynamoDB, MongoDB, Firebase  
-**Modeling & Orchestration:** dbt, Apache Airflow  
-**DevOps:** Docker, GitHub Actions, Prometheus, Grafana  
-**Frontend (enough to ship):** React.js  
-**Testing:** PyTest, Postman, smoke tests, contract tests
+- 🔧 Recent: Real-time chat infrastructure, multi-tier Redis caching, WebSocket at scale
+- ☁️ Clouds: AWS (EC2, Lambda, S3, CloudWatch), Docker, CI/CD
+- 📍 Houston • Remote-ready
 
 ---
 
-## 📈 Featured Projects
+## 🧰 Technical Stack
 
-### 🕵️‍♂️ Fraud Detection — Isolation Forest (Unsupervised)
-**Repo:** [`fraud_detection`](https://github.com/Krunal96369/fraud_detection)  
-**When:** May 2025
-
-Automated anomaly detection pipeline using Isolation Forest (PyOD) for
-financial transactions — no labels needed.
-
-- Real-time scoring with configurable contamination rate  
-- Visual analytics: normal vs. anomalous distributions  
-- Clean notebooks and reproducible environment
-
-**Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, PyOD, Jupyter
+**Languages:** GoLang, Python, SQL, JavaScript
+**Backend & APIs:** Gin, Echo, Flask, FastAPI, gRPC, REST, WebSocket
+**Concurrency:** Goroutines, Channels, Worker Pools, Celery
+**Data Stores:** PostgreSQL, Redis, MongoDB, MySQL
+**Infrastructure:** Docker, Nginx, GitHub Actions, Prometheus, Grafana
 
 ---
 
-### 🧠 ThinkDocs.ai — AI Document Intelligence (RAG)
-Production Q&A over unstructured PDFs with low-latency retrieval,
-stable ingestion, and observability.
+## 📈 What I've Built
 
-- Sub-200ms answers, doc auto-ingest, dashboards and metrics  
-**Stack:** FastAPI, ChromaDB, Prometheus, Grafana
+### Real-Time Messaging Infrastructure (Sports Media LLC)
+Production chat and live stats system handling **10K+ concurrent WebSocket
+connections** with sub-100ms latency.
 
----
+- Multi-tier Redis caching reduced database queries by **60%**
+- Latency dropped from 800ms to **320ms** under peak load
+- APIs handling **500K+ daily requests** with versioning and comprehensive error handling
 
-### 🏀 NBA Analytics Pipeline
-ETL → normalized DB → executive dashboards. Computes PER, TS%, and
-Four Factors with rate-limits and retries.
-
-**Stack:** Python, SQL, Power BI
+**Stack:** Flask, Flask-SocketIO, Redis, PostgreSQL, Docker
 
 ---
 
-### 🏥 Clinic Ops Platform
-Full-stack patient management with RBAC/JWT and real-time alerts.
-Reduced scheduling time by ~45%.
+### Patient Management Backend (Aubergine Solutions)
+GoLang backend serving 3 clinic locations with **99% uptime** and
+**1000+ daily transactions**.
 
-**Stack:** React, Node, Postgres, Socket.io, AWS SNS
+- Worker pool architecture processing **5K+ background jobs daily**
+- Composite indexing reduced query execution time by **35%**
+- API response times improved by **47%** through concurrent task processing
+- Payment gateway and SMS integration with exponential backoff retry logic
 
----
-
-### 🎓 Advising Data Warehouse (UHCL)
-Automations across Google Sheets/CRM. Standardized inputs led to ~30%
-fewer errors and ~40% faster updates.
-
----
-
-### 💳 Pay + Maps SDK
-React + MUI front ends integrating Stripe/Razorpay and Google Maps.
-Reporting scripts turned hours into minutes.
+**Stack:** GoLang, Gin, PostgreSQL, sqlx
 
 ---
 
-## 🧪 How I build
+### ThinkDocs.ai — Document Intelligence (RAG)
+Sub-200ms semantic search across 10,000+ documents with production
+observability.
 
-- **Event-first modeling:** design streams and schemas before code  
-- **Contracts & tests:** JSON schema + smoke + contract tests  
-- **Guardrails:** idempotent jobs, checkpoints, safe backfills  
-- **Observability:** metrics over vibes; useful dashboards and alerts
-
----
-
-## 📚 Currently learning
-
-- Event-driven system design (sagas, outbox, backpressure)  
-- Cost-aware modeling on Redshift / column stores  
-- Better DX for dbt + Airflow in mono-repos
+**Stack:** FastAPI, ChromaDB, AWS Lambda, Prometheus, Grafana
+**Repo:** [thinkdocs](https://github.com/Krunal96369/thinkdocs)
 
 ---
 
-## 🌐 Connect
+### NBA Analytics Pipeline
+Automated ETL ingesting 6 seasons of data with scheduled collection
+across 30+ teams and 400+ players.
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/krunalchauhan/  
-- 💻 **GitHub:** https://github.com/krunal96369  
-- ✉️ **Email:** krunal96369 (at) gmail (dot) com  
+**Stack:** Python, SQLAlchemy, SQLite, Power BI
+**Repo:** [NBA_Dashboard](https://github.com/Krunal96369/NBA_Dashboard)
 
+---
 
+## 🔗 Connect
+
+- **LinkedIn:** [krunalchauhan](https://www.linkedin.com/in/krunalchauhan/)
+- **Portfolio:** krunalchauhan.me
+- **Email:** krunal96369@gmail.com
