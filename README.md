@@ -1,29 +1,5 @@
 # 👋 Hey, I'm Krunal Chauhan
 
-### Backend Engineer • Real-time Infrastructure • Scalable Systems
-
-I build backend systems that handle production load: real-time messaging
-infrastructure with 10K+ concurrent connections, APIs serving 500K+ daily
-requests, and async pipelines processing thousands of background jobs with
-99% uptime. 3+ years shipping code that scales.
-
-Currently finishing an MS in Software Engineering @ UHCL.
-
-- 🔧 Recent: Real-time chat infrastructure, multi-tier Redis caching, WebSocket at scale
-- ☁️ Clouds: AWS (EC2, Lambda, S3, CloudWatch), Docker, CI/CD
-- 📍 Houston • Remote-ready
-
----
-
-## 🧰 Technical Stack
-
-**Languages:** GoLang, Python, SQL, JavaScript
-**Backend & APIs:** Gin, Echo, Flask, FastAPI, gRPC, REST, WebSocket
-**Concurrency:** Goroutines, Channels, Worker Pools, Celery
-**Data Stores:** PostgreSQL, Redis, MongoDB, MySQL
-**Infrastructure:** Docker, Nginx, GitHub Actions, Prometheus, Grafana
-
----
 
 ## 📈 What I've Built
 
